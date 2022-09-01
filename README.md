@@ -11,15 +11,14 @@ sections:
       - Pausable
 ---
 
-This code released for UNICUS Project ( http://unicus.co.kr ) , symbol is UNIC.
+This code released for UNICUS-Z Project , symbol is UNICZ.
 
-All right reserved @ FIVE CORPORATION ( https://www.five-corporation.com )
 
 =============
 Pulling code
 
 pragma solidity 0.5.2;
 
-import "https://github.com/five0corp/UNICUS/blob/master/main/UnicusCoin.sol";
+import "https://github.com/uniczdev/UNICZ/blob/master/main/UnicusZCoin.sol";
 
 =============
